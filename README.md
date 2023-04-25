@@ -1,16 +1,31 @@
-### Hi there 👋
+> http://localhost:8080/jlahumadan/index.html
+> npx @11ty/elventy --server
+# Hello, I´m Jose Ahumada,
+## I want to create an awesome web site to improve my skills and convert me in a Full-Stack Web Developer
+I'm a **Full-stack JavaScript Developer** from **Colombia** living in San Pedro - Sucre.
+**Responsive Web Design** certificate in FreeCodeCamp.
+**CCNA Routing and Switching: Introducción a redes** in Cisco Networking Academy.
 
-<!--
-**Joseberzeker/Joseberzeker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Poseo Conocimiento en
+## Front-End 
+**Lenguajes y Tecnologías**
 
-Here are some ideas to get you started:
+1. HTML5
+2. CSS3
+3. Bootstrap
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Back-End
+**Lenguajes y Tecnologías**
+
+1. PHP
+
+## DataBase 
+**Lenguajes y Tecnologías**
+
+1. MySQL
+2. MongoDB
+
+## Machine Learning
+**Lenguajes y Tecnologías**
+
+1. Python
