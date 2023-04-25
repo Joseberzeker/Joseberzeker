@@ -29,3 +29,18 @@ I'm a **Full-stack JavaScript Developer** from **Colombia** living in San Pedro 
 **Lenguajes y Tecnologías**
 
 1. Python
+
+# Estos son los 5 comandos que mas uso en Linux
+| comando | Descripcion                                   |
+|---------|-----------------------------------------------|
+| ls      | Lista el contenido de un directorio           |
+| cd      | Cambiar entre directorios                     |
+| cat     | Imprimir el contenido de un archivo en consola|
+| vi      | Permite usar el editor de vi                  |
+| pwd     | Muestra la ruta del directorio actual         |
+
+# Estos son mis alias más usados
+
+```bash
+alias mostused='history | awk '\'' {print $2}'\'' | sort | uniq -c | sort -nr | head -n 10'
+```
